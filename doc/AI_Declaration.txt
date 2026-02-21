@@ -1,0 +1,65 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name: Jareen Tasneem Khondaker
+Student ID: 22301308
+Assignment: 01
+Date: 22-02-2026
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[X] ChatGPT
+[ ] GitHub Copilot
+[ ] Google Gemini
+[ ] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[X] Learning/understanding concepts
+[X] Debugging my code
+[X] Generating code snippets
+[ ] Writing text content
+[ ] Design/styling ideas
+[ ] Image generation
+[ ] Other: ________________
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+Briefly describe what you used AI for and how:
+I first used it to guide me through downloading Android Studio properly as my PC was having some issues. Then, since I am new to this topic, I used AI to understand what happens where and how things work. I used it to find out what folders I might need for what I want to do in the project. I also used it to generate a code snippet of the base interface of the keyboard and panels to see what everything should look like and how the codes should be arranged. Then I used AI to go through every detail and understand everything, and why something worked the way it did. Then I also used it to properly understand how the connections worked and how to connect things to do what I want to do. I then proceeded to use it to learn more about android studio in general.
+
+
+
+
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+File: layout/activity_main.xml Section: <LinearLayout android:id="@+id/changeContainer"........</LinearLayout>
+File: MainActivity.kt Section: findViewById<TextView>(R.id.tv500).text = "500: ${change[500]}"
+File:
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: Jareen Tasneem Khondaker
+Date: 22301308
+
+============================================================
+Save as: docs/AI_Declaration.txt
+============================================================
