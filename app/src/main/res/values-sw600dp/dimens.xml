@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="text_large">30sp</dimen>
+    <dimen name="text_medium">22sp</dimen>
+    <dimen name="margin_standard">4dp</dimen>
+    <dimen name="button_height">110dp</dimen>
+    <dimen name="topbar_height">60dp</dimen>
+</resources>
